@@ -130,6 +130,9 @@ dmypy.json
 
 .DS_Store
 
+# Gradle Plugin
+.gradle/
+
 # JetBrains Rider
 .idea/
 *.iml
